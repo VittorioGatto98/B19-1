@@ -29,7 +29,7 @@ Dedicata allo **sviluppo** e alla **progettazione** di software.
 
 **Prof:**
   * Currò		[@Giuseppecurro](https://github.com/Giuseppecurro)
-  * Terrizzi	[@ninoterrizzi](https://github.com/ninoterrizzi)
+  * Terrizzi	[@Ninoterrizzi](https://github.com/ninoterrizzi)
 
 Repository creata unicamente a scopo educativo.
 
